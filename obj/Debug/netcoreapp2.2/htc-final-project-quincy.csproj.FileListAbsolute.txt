@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\htc-final-project-quincy\obj\Debug\netcoreapp2.2\htc-final-project-quincy.csprojAssemblyReference.cache
+C:\Users\User\Desktop\htc-final-project-quincy\obj\Debug\netcoreapp2.2\htc-final-project-quincy.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\htc-final-project-quincy\obj\Debug\netcoreapp2.2\htc-final-project-quincy.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\htc-final-project-quincy\obj\Debug\netcoreapp2.2\htc-final-project-quincy.AssemblyInfo.cs
+C:\Users\User\Desktop\htc-final-project-quincy\bin\Debug\netcoreapp2.2\htc-final-project-quincy.deps.json
+C:\Users\User\Desktop\htc-final-project-quincy\bin\Debug\netcoreapp2.2\htc-final-project-quincy.runtimeconfig.json
+C:\Users\User\Desktop\htc-final-project-quincy\bin\Debug\netcoreapp2.2\htc-final-project-quincy.runtimeconfig.dev.json
+C:\Users\User\Desktop\htc-final-project-quincy\bin\Debug\netcoreapp2.2\htc-final-project-quincy.dll
+C:\Users\User\Desktop\htc-final-project-quincy\bin\Debug\netcoreapp2.2\htc-final-project-quincy.pdb
+C:\Users\User\Desktop\htc-final-project-quincy\obj\Debug\netcoreapp2.2\htc-final-project-quincy.dll
+C:\Users\User\Desktop\htc-final-project-quincy\obj\Debug\netcoreapp2.2\htc-final-project-quincy.pdb
